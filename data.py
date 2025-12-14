@@ -21,5 +21,5 @@ def sub(a,b):
 def mul(a,b):
     return a*b
 
-
-    
+x ="hi"
+location="vadakara"
